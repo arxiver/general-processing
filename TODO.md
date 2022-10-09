@@ -1,0 +1,2 @@
+- Store (2*x matrix input) within the gpu memory to operate on the compute shader
+- Link a CPU memory with a GPU memory (to get the output)
